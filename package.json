@@ -1,6 +1,6 @@
 {
   "name": "pp-timeline",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Vanilla JavaScript horizontal / vertical timeline component",
   "author": "Mike Collins",
   "license": "MIT",
@@ -33,7 +33,6 @@
     "eslint-plugin-vue": "^5.0.0",
     "sass": "^1.40.0",
     "sass-loader": "10",
-    "svg-sprite-loader": "^6.0.9",
     "typescript": "^3.4.3",
     "vue": "^2.6.10",
     "vue-class-component": "^7.0.2",
