@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><style>
+    .sprite-symbol-usage {display: none;}
+    .sprite-symbol-usage:target {display: inline;}
+  </style><symbol viewBox="0 0 7.8 14" id="arrow-left">
+<style type="text/css">
+	#arrow-left .st0{fill:none;stroke:#DDDDDD;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<title></title>
+<polyline class="st0" points="6.8,1 1,7 6.8,13 " />
+</symbol><symbol viewBox="0 0 7.8 14" id="arrow-right">
+<style type="text/css">
+	#arrow-right .st0{fill:none;stroke:#DDDDDD;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<title></title>
+<polyline class="st0" points="1,13 6.8,7.1 1,1 " />
+</symbol></defs><use id="arrow-left-usage" xlink:href="#arrow-left" class="sprite-symbol-usage" /><use id="arrow-right-usage" xlink:href="#arrow-right" class="sprite-symbol-usage" /></svg>

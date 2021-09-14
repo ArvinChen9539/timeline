@@ -16,8 +16,6 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "docs:build": "vuepress build docs",
-    "docs:dev": "vuepress dev docs",
     "lib": "vue-cli-service build --target lib --name timeline --dest lib src/index.ts"
   },
   "dependencies": {
@@ -35,6 +33,7 @@
     "eslint-plugin-vue": "^5.0.0",
     "sass": "^1.40.0",
     "sass-loader": "10",
+    "svg-sprite-loader": "^6.0.9",
     "typescript": "^3.4.3",
     "vue": "^2.6.10",
     "vue-class-component": "^7.0.2",
