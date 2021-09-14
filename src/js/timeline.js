@@ -444,3 +444,5 @@ if (window.jQuery) {
     };
   })(window.jQuery);
 }
+
+export default timeline
